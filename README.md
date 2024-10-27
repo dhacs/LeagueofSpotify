@@ -11,7 +11,7 @@ To use this project, you will need approved Spotify API credentials, which are e
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - Libraries:
   - `requests`
   - `tkinter` (included with Python)
