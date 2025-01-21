@@ -1,7 +1,7 @@
 import requests
 import base64
 
-# Spotify API credentials
+# Spotify API credentials here
 CLIENT_ID = '00000000000000000000000000000000'
 CLIENT_SECRET = '00000000000000000000000000000000' #replace with user Client ID and Secret
 REDIRECT_URI = 'http://localhost:5000/callback'  # Local redirect URI
